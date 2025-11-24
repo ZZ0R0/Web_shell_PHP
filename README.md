@@ -1,6 +1,6 @@
 # Web_shell_PHP
 
-a simple web shell in php
+A simple web shell in PHP
 
 Capabilities :
 
@@ -9,4 +9,4 @@ Capabilities :
 - list files and folders
 - download and preview files
 
-![[Screenshot from 2025-11-24 22-31-15.png]]
+![Web shell screenshot](Screenshot%20from%202025-11-24%2022-31-15.png)
